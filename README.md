@@ -129,25 +129,4 @@ For support or questions, contact [admin](https://t.me/forwardtarbot)  direct su
 
 ---
 
-**References:**  
-- [How to create a Telegram bot][5]  
-- [API Documentation](https://broadcast.findolucky.site/api_doc.php)[5]: https://flowxo.com/how-to-create-a-bot-for-telegram-short-and-simple-guide-for-beginners/
-
----
-
-
-
-Citations:
-[1] https://github.com/NACBots/BroadcastBot
-[2] https://developer.kore.ai/docs/bots/api-guide/get-analytics-api/
-[3] https://botstore.automationanywhere.com/bot/a2019-telegram-broadcast-bot
-[4] https://www.youtube.com/watch?v=uCnO1kAICOA
-[5] https://flowxo.com/how-to-create-a-bot-for-telegram-short-and-simple-guide-for-beginners/
-[6] https://stackoverflow.com/questions/57964556/how-can-a-telegram-bot-broadcast-a-message-to-active-chats-users
-[7] https://www.make.com/en/help/tutorials/using-telegram-bot-with-make
-[8] https://api.support.vonage.com/hc/en-us/articles/8724483971612-Telegram-Broadcast
-[9] https://core.telegram.org/bots/faq
-[10] https://www.save.day/blog-posts/channel-telegram-bot
-[11] https://telegram.org/blog/bot-revolution
-[12] https://api.mattermost.com
 
